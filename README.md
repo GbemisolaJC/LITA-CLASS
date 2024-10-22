@@ -23,11 +23,12 @@ The aim and objective of this project is to have a good knowledge and understand
  - Structured Quering Language- SQL
  - Power BI
 
-   ## Data Manipulation and cleaning using Microsoft Excel
+   ## Data Manipulation and cleaning using Microsoft Excel ---
+
    
-   #### Text Cleaning Functions
+     #### Text Cleaning Functions
    1. Lower, Upper and Proper: These are excel functions that helps with the which are presented. The lower function helps to turn all letters within cell t small letter, the upper helps to captalize all letters while proper capitalize the first letter of each word.
-   2. Trim :This function helps elps tp eliminate extra spaces at the beginin, between and at the end of a text.
+   2. Trim :This function helps elps tp eliminate extra spaces at the begining, between and at the end of a text.
    3. 
    
    
