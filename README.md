@@ -31,8 +31,9 @@ The aim and objective of this project is to have a good knowledge and understand
    2.  Trim :This function helps elps tp eliminate extra spaces at the begining, between and at the end of a text. trim (r4)
    3.  
     
-   
-   
+   ![text cleaning](https://github.com/user-attachments/assets/b7157bf2-3ff9-4c13-a15b-cdb0bedc5e6b)
+
+
    #### Data summarization using excel functions like
      1. Sum : This will add up the total of the selete range of cells.
      2. max :This function will return the maximum value within the selected range of cells.
