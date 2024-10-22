@@ -32,7 +32,9 @@ The aim and objective of this project is to have a good knowledge and understand
    3.  
     
    ![text cleaning](https://github.com/user-attachments/assets/b7157bf2-3ff9-4c13-a15b-cdb0bedc5e6b)
+![TEXT CLEANING 3](https://github.com/user-attachments/assets/27490770-4568-4246-b501-aae25b9f3e22)
 
+![text cleaning 4](https://github.com/user-attachments/assets/b55de7af-7b00-45b1-9c31-77897beba0a2)
 
    #### Data summarization using excel functions like
      1. Sum : This will add up the total of the selete range of cells.
