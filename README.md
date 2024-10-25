@@ -10,7 +10,7 @@ A Data analyst collect, process and analyze data to help companies or oraganizat
 ### Project Overview
 
 The aim and objective of this project is to have a good knowledge and understanding of Data Analysis in three main areas which are;
-- Data Manipulation and Cleaning using Microsoft Excel
+- [Data Manipulation and Cleaning using Microsoft Excel](https://github.com/GbemisolaJC/Excel-.git)
 - Data Querying Using SQL and
 - Data visualization Using Power BI
 
