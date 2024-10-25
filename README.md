@@ -4,8 +4,33 @@ DOCUMENTING MY FIRST PROJECT WHILE LEARNING
 ## DATA ANALYSIS BASICS 
 
 ### WHAT DO DATA ANALYST DO ?
-
 A Data analyst collect, process and analyze data to help companies or oraganizations make better decision.
+
+### WHAT IS DATA ANALYSIS?
+Data analysis is the process of inspecting, cleaning, transforming and modeling data to discover useful information, draw conclusion ad support decision making.
+
+### ETL 
+its is a data integration process used to consolidate data from multiple sources into a single data warehouse or database. Here’s a brief overview of each component:
+
+- Extract: This step involves retrieving data from various sources, such as databases, CRM systems, and flat files. The goal is to gather all relevant data for analysis.
+- Transform: In this phase, the extracted data is cleansed and transformed to fit the target schema. This may include operations like filtering, aggregating, or converting data types to ensure consistency and quality.
+- Load: Finally, the transformed data is loaded into the target system, such as a data warehouse, where it can be accessed and analyzed by users.
+ETL processes are essential for effective data management and analytics, enabling organizations to make informed decisions based on comprehensive and reliable data.
+
+### DATA STAGES
+- Business Questions
+- Get Data
+- Explore Data
+- Prepare Data
+- Analyze Data
+- Present Findings
+
+### IMPORTANCE OF DATA ANALYSIS
+- Helps to make decision base on actual data.
+- Identifies bottleneck and inefficient in process leading tp optimization and cost reduction.
+- Predict future trends and outcome , allowing buisness to prepare and strategize accordingly.
+- 
+
 
 ### Project Overview
 
@@ -23,23 +48,5 @@ The aim and objective of this project is to have a good knowledge and understand
  - Structured Quering Language- SQL
  - Power BI
 
-   ## Data Manipulation and cleaning using Microsoft Excel 
-
-   
-     #### Text Cleaning Functions
-   1. Lower, Upper and Proper: These are excel functions that helps with the which are presented. The lower function helps to turn all letters within cell t small letter, the upper helps to captalize all letters while proper capitalize the first letter of each word. lower (R4)
-   2.  Trim :This function helps elps tp eliminate extra spaces at the begining, between and at the end of a text. trim (r4)
-   3.  
-    
-
-   #### Data summarization using excel functions like
-     1. Sum : This will add up the total of the selete range of cells.
-     2. max :This function will return the maximum value within the selected range of cells.
-     3. min : This fuction returns the minimum value within a selected range of cells.
-     4. Large: This function return te top'x' largest value within te selected range of cells.
-     5. average: This fuction returns the average value of the selected cells.
-     6. count: This fuctions helps to get the number of entries in a number field that is in a range.
-     7. counta: This fuctions helps to get the number of entries that are not blank (i.e texts or mixture of text and numbers) in a  selected range.
-  
-   
+ 
 
